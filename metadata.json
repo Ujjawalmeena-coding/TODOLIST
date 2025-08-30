@@ -1,0 +1,5 @@
+{
+  "name": "Daily Focus Tracker",
+  "description": "A habit tracking application to monitor daily progress with a visual calendar, contribution graph, and checklist. Stay motivated by tracking streaks and logging daily achievements.",
+  "requestFramePermissions": []
+}
